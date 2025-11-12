@@ -2,8 +2,7 @@
 
 ## I'm a Developer from Adana, Turkey 🇹🇷
 
-- 💻 Experienced in React,Typescript,Vue.js, Node.js, and MySQL  
-- 🚀 Currently working on e-commerce projects  
+- 💻 Experienced in React,Typescript,Vue.js, Node.js, and MySQL   
 - 🔍 Passionate about web technologies and backend development  
 - 🎓 Graduated in Computer Engineering from Erciyes University 
 
