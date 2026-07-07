@@ -33,15 +33,6 @@ Full Stack Developer building **scalable, production-ready web applications**, w
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufkkaann&show_icons=true&theme=default&hide_border=true" alt="Yusuf Kaan's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkkaann&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
-
 ### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaanyucebilgic/)
